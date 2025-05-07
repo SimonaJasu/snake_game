@@ -36,14 +36,11 @@ snake_game/
 ├── game.py                # Singleton klasė, kurioje vyksta žaidimo logika
 ├── snake.py               # Gyvatės klasė
 ├── apple.py               # Obuolio klasė
-├── settings.py            # Ekrano matmenys ir ląstelių dydis
-├── ui/
-│   ├── input_box.py       # Tekstinio įvesties lauko UI klasė
-│   └── registration.py    # Registracijos logika
-├── utils/
-│   └── file_io.py         # Rezultatų saugojimas ir nuskaitymas
-├── tests/
-│   └── test_snake.py      # Vienetiniai testai
+├── settings.py            # Ekrano matmenys ir detalių dydis
+├── input_box.py           # Tekstinio įvesties lauko klasė
+│── registration.py        # Registracijos logika
+│── file_io.py             # Rezultatų saugojimas ir nuskaitymas
+├── test_snake.py          # Vienetiniai testai
 ├── scores.json            # JSON failas rezultatams saugoti
 ```
 

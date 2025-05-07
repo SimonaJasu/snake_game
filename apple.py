@@ -16,10 +16,10 @@ class Apple:
         center = (x + CELL_SIZE // 2, y + CELL_SIZE // 2)
         radius = CELL_SIZE // 2 - 2
 
-        # 🍎 Obuolio kūnas
+        # Obuolys
         pygame.draw.circle(surface, (255, 50, 50), center, radius)
 
-        # 🍃 Lapelis (žalias, virš obuolio)
+        # Lapelis
         leaf_width = 4
         leaf_height = 6
         leaf_x = x + CELL_SIZE // 2 - 2

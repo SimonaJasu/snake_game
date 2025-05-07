@@ -146,9 +146,9 @@ def test_move_forward(self):
 
 ## 9. Rezultatai ir iššūkiai
 
-- ✅ Sukurta veikianti sistema
-- ✅ Visi OOP principai įgyvendinti
-- ✅ Failų įrašymas, registracija ir testai
+- Sukurta veikianti sistema
+- Visi OOP principai įgyvendinti
+- Failų įrašymas, registracija ir testai
 
 ---
 

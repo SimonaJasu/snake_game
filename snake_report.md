@@ -32,6 +32,7 @@
 snake_game/
 ├── main.py                # Paleidžia žaidimą, valdo ciklą
 ├── game.py                # Singleton klasė, kurioje vyksta žaidimo logika
+├── game_object.py         # Apibrėžia abstrakčią bazinę klasę
 ├── snake.py               # Gyvatės klasė
 ├── apple.py               # Obuolio klasė
 ├── settings.py            # Ekrano matmenys ir detalių dydis
@@ -39,7 +40,6 @@ snake_game/
 │── registration.py        # Registracijos logika
 │── file_io.py             # Rezultatų saugojimas ir nuskaitymas
 ├── test_snake.py          # Vienetiniai testai
-├── scores.json            # JSON failas rezultatams saugoti
 ```
 
 ---

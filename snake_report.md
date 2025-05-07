@@ -8,8 +8,6 @@
 
 **Tikslas** – sukurti išplečiamą, tvarią, gerai struktūruotą programą, kuri veiktų kaip pavyzdys taikant OOP principus praktikoje.
 
-**Tikslinė auditorija** – vartotojai, norintys žaisti paprastą bet vizualiai patrauklų žaidimą, bei programuotojai, besimokantys OOP pagrindų.
-
 ---
 
 ## 2. Kaip paleisti žaidimą

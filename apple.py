@@ -1,8 +1,9 @@
 import pygame
 import random
 from settings import *
+from game_object import GameObject
 
-class Apple:
+class Apple(GameObject):
     def __init__(self):
         self.position = self.random_position()
 
